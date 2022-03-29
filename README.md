@@ -1,9 +1,11 @@
 # Mac Export Photos
 ##### Mac Export Photos preserving creation date and time.
 
+
 ### Description
 Exporting original photos from Mac Photos in a separate folder **preserving creation date and time** for files.
 Export can be done by year and month.
+
 
 ### Installation
 1. Copy file mac-export-photos.py in your home folder. 
